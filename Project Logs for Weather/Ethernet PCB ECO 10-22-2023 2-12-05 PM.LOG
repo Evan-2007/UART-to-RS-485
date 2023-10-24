@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetIC?_6 Pin=J?-1
+Removed Pin From Net: NetName=NetIC?_7 Pin=J?-2
+Added Pin To Net: NetName=NetIC?_7 Pin=J?-1
+Added Pin To Net: NetName=NetIC?_6 Pin=J?-2
+Added Member To Class: ClassName=Ethernet Member=Component C1 C0805C220J5GAC7210
